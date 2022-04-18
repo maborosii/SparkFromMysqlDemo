@@ -1,0 +1,4 @@
+[debug] [sparkdemo4mysql] Classpath dependencies List()
+[debug] [sparkdemo4mysql] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'sparkdemo4mysql' to '/home/bonbon/bigdata/scala/code/SparkDemo4Mysql/.bloop/sparkdemo4mysql.json'
+[success] Generated .bloop/sparkdemo4mysql.json
